@@ -1,0 +1,7 @@
+
+
+
+
+GitHub 有一个十分详细的针对数十种项目及语言的 .gitignore 文件列表    
+
+https://github.com/github/gitignore

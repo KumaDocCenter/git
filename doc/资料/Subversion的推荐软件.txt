@@ -1,0 +1,257 @@
+﻿
+【Subversion 重点推荐的软件】
+与Subversion 相关热门的优秀的软件
+
+Subversion由CollabNet Inc.于2000 年创建
+2009年11月，Subversion 被Apache Incubator专案所接收。
+2009年10月，WANdisco 成为该项目的主要公司赞助商。
+
+========================================================================================================
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+========================================================================================================
+信息主要来源：
+使用Subversion的软件列表 - 维基百科
+https://en.wikipedia.org/wiki/List_of_software_that_uses_Subversion
+
+
+
+============================================================================================
+【CollabNet】 
+http://www.collab.net/
+
+------------------------------------------------------------------------
+[Subversion Edge]
+https://www.collab.net/products/subversion
+
+是部署Subversion服务器的最简单，最快捷的方式，是一个基于Web的环境前端Subversion。
+简化Apache™Subversion®安装，自动升级，以集中，简单的方式管理实例和用户。
+
+它还包括一个自动安装程序，更新程序，存储库管理，用户管理，
+在CollabNet CloudForge中具有免费存储的自动云备份，与Git和TeamForge ALM集成。
+升级到TeamForge，以整合和管理整个企业中的多个Subversion和Git服务器以及各种各样的ALM工具
+
+TeamForge ALM:   应用生命周期管理（ALM）平台
+
+
+
+提供：
+Subversion Edge (服务端，包含最新版本的Subversion，Apache和ViewVC的认证软件堆栈)
+Subversion (客户端，包括所有的Subversion命令行二进制文件和一个自动更新组件)
+Subversion + Apache服务器 (包括所有Subversion命令行二进制文件，Apache httpd，mod_dav_svn和一个自动更新组件)
+
+AnkhSVN (Microsoft Visual Studio的Subversion插件 https://ankhsvn.open.collab.net/ )(第三方，CollabNet社区项目)
+CollabNet Subversion插件和集成 (由CollabNet开发和认证 https://www.collab.net/products/integrations/certified )
+    * CollabNet Desktop - Eclipse版（包括Subclipse）
+    * CollabNet Desktop - Visual Studio Edition
+    * CollabNet Desktop - Microsoft Windows Edition
+	
+
+
+授权：免费/30天免费试用
+
+OS: 
+   Windows
+   Linux
+   Solaris 
+   托管(CollabNet CloudForge http://www.cloudforge.com/  )
+
+------------------------------------------------------------------------
+[GitEye]
+https://www.collab.net/products/giteye
+
+免费的GIT GUI客户端
+GitEye是一个为您的Git实例提供开箱即用图形用户界面（GUI）解决方案的单一安装平台。
+
+GitEye与CloudForge和TeamForge本身一起工作，同时也为GitHub提供了最好的桌面。
+GitEye允许从GitHub，CloudForge和TeamForge按钮克隆存储库。
+此外，它还与其他工具进行了开箱即用的集成，如：Jira，Bugzilla，Hudson，Jenkins，Trac等。
+
+
+
+提供：
+CollabNet GitEye (GitEye是Windows，OSX和Linux的图形Git客户端)
+
+
+授权：免费
+
+OS: 
+   Windows
+   Linux
+   Mac OSX
+   
+
+------------------------------------------------------------------------
+
+============================================================================================
+
+【WANdisco】
+https://www.wandisco.com/
+
+
+------------------------------------------------------------------------
+[Subversion二进制文件]
+https://www.wandisco.com/subversion/download
+
+
+提供：
+服务端和客户端
+
+
+授权：
+
+OS: 
+   Windows
+   Linux
+     Ubuntu
+     SUSE
+     Red Hat Enterprise
+     Oracle
+     Debian
+     CentOS	
+   Solaris
+   Mac OSX
+
+
+[SVN Multisite Plus](14天的免费试用期包括无限次使用)
+https://www.wandisco.com/subversion/multisiteplus
+
+使用SVN Multisite Plus，使用Subversion的全球分布的团队就像在一个位置一样进行协作。 
+   
+------------------------------------------------------------------------
+[Git二进制文件]
+https://www.wandisco.com/git/download
+
+
+提供：
+服务端和客户端
+
+
+授权：
+
+OS: 
+   Windows
+   Linux
+     Ubuntu
+     SUSE
+     Red Hat Enterprise	 
+     CentOS	
+   Solaris
+   Mac OSX
+
+[Git Multisite](14天的免费试用期包括无限次使用)
+https://www.wandisco.com/git
+
+消除单点故障的孤独的Git“上游”存储库，使分布式团队作为一个合作
+   
+------------------------------------------------------------------------
+
+============================================================================================
+
+【TortoiseSVN】
+
+一个Windows外壳（即资源管理器）扩展。
+ortoiseSVN 是可用于 Windows 系统的 Apache™ Subversion (SVN)® 版本控制客户端. 
+
+TortoiseSVN 无需使用 Subversion 命令行，是目前最方便的 Subversion 版本控制系统，
+其操作和使用非常直观和简洁。
+
+
+TortoiseSVN
+https://tortoisesvn.net/
+
+
+
+授权： GNU通用公共许可证  免费软件
+OS: Windows
+
+============================================================================================
+
+【VisualSVN】
+https://www.visualsvn.com/
+
+产品：
+	[ VisualSVN ]
+	通过一个将Subversion与Visual Studio无缝集成的可靠插件
+	OS：Windows
+	License：专有软件
+	
+	[ VisualSVN Server ]
+	使Subversion服务器在Windows上安装和管理变得简单方便。
+	OS：Windows
+	License：专有软件(标准版： 免费软件|企业版： 30天试用软件)
+
+
+============================================================================================
+【集成开发环境（IDE）列表】
+支持或可以与Subversion集成
+
+[Microsoft Visual Studio]
+         AnkhSVN 
+		 一个Visual Studio .NET附加组件。它允许直接在VS.NET IDE中执行最常见的Subversion操作
+		 目录：CollabNet>>AnkhSVN
+		 
+         VisualSVN
+		 Visual Studio 2003 - 2017的Subversion集成
+
+
+
+
+
+============================================================================================
+【GitLab】
+是一个基于Web的Git 存储库管理器，具有wiki和问题跟踪功能，使用由GitLab Inc.开发的开源许可证。
+
+GitLab
+https://about.gitlab.com/
+
+============================================================================================
+
+
+
+============================================================================================
+
+
+
+============================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================================================
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+========================================================================================================
+
+相关资源：
+
+Apache Subversion 项目主页
+https://subversion.apache.org/
+
+Apache Subversion - 维基百科
+https://en.wikipedia.org/wiki/Apache_Subversion
+
+
+CollabNet 
+http://www.collab.net/
+
+CollabNet - 维基百科
+https://en.wikipedia.org/wiki/CollabNet
+
+
+WANdisco
+http://www.wandisco.com/
+
+WANdisco - 维基百科
+https://en.wikipedia.org/wiki/WANdisco
+
+
+使用Subversion的软件列表 - 维基百科
+https://en.wikipedia.org/wiki/List_of_software_that_uses_Subversion
+
